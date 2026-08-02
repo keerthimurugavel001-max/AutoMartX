@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_Logo.png" alt="AutoMartX Logo" width="600"/>
+  <img src="logo/AutoMartX_Logo.png" alt="AutoMartX Logo" width="600"/>
 </p>
 
 # 🚗 AutoMartX – AI-Powered Smart Vehicle Marketplace
@@ -28,19 +28,19 @@ Unlike traditional marketplace platforms that act as passive listing boards, Aut
 
 ## 🔄 User Workflow Diagram
 
-![AutoMartX User Workflow](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_User_Workflow.png)
+![AutoMartX User Workflow](Problem_Statement/diagrams/AutoMartX_User_Workflow.png)
 
 ---
 
 ## 📊 Database ER Diagram
 
-![AutoMartX Database ER Diagram](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_Database_ER_Diagram.png)
+![AutoMartX Database ER Diagram](Problem_Statement/diagrams/AutoMartX_Database_ER_Diagram.png)
 
 ---
 
 ## ☁️ Hosting & Deployment Architecture Diagram
 
-![AutoMartX Hosting & Deployment Architecture](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_Hosting_Deployment_Architecture.png)
+![AutoMartX Hosting & Deployment Architecture](Problem_Statement/diagrams/AutoMartX_Hosting_Deployment_Architecture.png)
 
 ---
 
@@ -108,17 +108,17 @@ VehicleTrading/
 
 Explore the complete specification in the [`Problem_Statement/`](Problem_Statement) directory:
 
-- [00_User_Workflow.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/00_User_Workflow.md)
-- [01_Title.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/01_Title.md)
-- [02_Domain.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/02_Domain.md)
-- [03_Who_is_the_User.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/03_Who_is_the_User.md)
-- [04_Problem_We_Are_Solving.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/04_Problem_We_Are_Solving.md)
-- [05_Proposed_Solution.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/05_Proposed_Solution.md)
-- [06_Core_Entities_Database_Tables.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/06_Core_Entities_Database_Tables.md)
-- [07_User_Roles_And_Permissions.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/07_User_Roles_And_Permissions.md)
-- [08_Success_Criteria.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/08_Success_Criteria.md)
-- [09_Out_Of_Scope.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/09_Out_Of_Scope.md)
-- [10_Chosen_Track.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/10_Chosen_Track.md)
+- [00_User_Workflow.md](Problem_Statement/00_User_Workflow.md)
+- [01_Title.md](Problem_Statement/01_Title.md)
+- [02_Domain.md](Problem_Statement/02_Domain.md)
+- [03_Who_is_the_User.md](Problem_Statement/03_Who_is_the_User.md)
+- [04_Problem_We_Are_Solving.md](Problem_Statement/04_Problem_We_Are_Solving.md)
+- [05_Proposed_Solution.md](Problem_Statement/05_Proposed_Solution.md)
+- [06_Core_Entities_Database_Tables.md](Problem_Statement/06_Core_Entities_Database_Tables.md)
+- [07_User_Roles_And_Permissions.md](Problem_Statement/07_User_Roles_And_Permissions.md)
+- [08_Success_Criteria.md](Problem_Statement/08_Success_Criteria.md)
+- [09_Out_Of_Scope.md](Problem_Statement/09_Out_Of_Scope.md)
+- [10_Chosen_Track.md](Problem_Statement/10_Chosen_Track.md)
 
 ---
 
@@ -166,7 +166,7 @@ AutoMartX uses a **public/private isolated network architecture** on **Railway**
 - **Public Zone**: React Frontend (protected by Railway Edge CDN, WAF, and Load Balancer)
 - **Private Zone**: FastAPI Backend API & MySQL Database (connected via Railway Private Networking, unexposed to public ports)
 
-*Production AWS alternative documented in [10_Chosen_Track.md](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/10_Chosen_Track.md#L103-L146).*
+*Production AWS alternative documented in [10_Chosen_Track.md](Problem_Statement/10_Chosen_Track.md).*
 
 ---
 

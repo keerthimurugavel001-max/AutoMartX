@@ -12,7 +12,7 @@ This document defines the core database entities that power AutoMartX. The schem
 
 ## Entity Relationship Summary
 
-![AutoMartX - Database ER Diagram](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_Database_ER_Diagram.png)
+![AutoMartX - Database ER Diagram](diagrams/AutoMartX_Database_ER_Diagram.png)
 
 ```
 Users ──┬── Vehicles ──┬── Vehicle_Images

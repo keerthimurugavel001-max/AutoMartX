@@ -12,7 +12,7 @@ AutoMartX is designed for **three primary user groups**, each with distinct goal
 
 ## 📊 End-to-End User Workflow Diagram
 
-![AutoMartX - User Workflow](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_User_Workflow.png)
+![AutoMartX - User Workflow](diagrams/AutoMartX_User_Workflow.png)
 
 ---
 

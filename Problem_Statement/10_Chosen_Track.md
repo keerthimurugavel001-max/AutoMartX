@@ -106,7 +106,7 @@ AutoMartX is deployed on **Railway**, using a public/private network architectur
 
 ### ✅ Primary Hosting: Railway (Public/Private Split)
 
-![AutoMartX - Hosting & Deployment Architecture](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_Hosting_Deployment_Architecture.png)
+![AutoMartX - Hosting & Deployment Architecture](diagrams/AutoMartX_Hosting_Deployment_Architecture.png)
 
 | Component | Zone | Platform | Notes |
 |---|---|---|---|

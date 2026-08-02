@@ -12,7 +12,7 @@ The following workflow diagram illustrates the step-by-step end-to-end journey f
 
 ## User Workflow Diagram
 
-![AutoMartX - User Workflow](file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_User_Workflow.png)
+![AutoMartX - User Workflow](diagrams/AutoMartX_User_Workflow.png)
 
 ---
 
