@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="file:///C:/Users/sthar/OneDrive/Desktop/New%20folder/VehicleTrading/Problem_Statement/diagrams/AutoMartX_Logo.png" alt="AutoMartX Logo" width="600"/>
+</p>
+
 # 🚗 AutoMartX – AI-Powered Smart Vehicle Marketplace
 
 > **"Buy Smart. Sell Secure. Powered by Artificial Intelligence."**
@@ -64,6 +68,9 @@ VehicleTrading/
 ├── LICENSE                            # MIT License
 ├── .gitignore                         # Git exclusion rules
 │
+├── logo/                              # Project logo and branding assets
+│   └── AutoMartX_Logo.png
+│
 ├── Problem_Statement/                # Complete Capstone Documentation
 │   ├── 00_User_Workflow.md            # Detailed user journey breakdown & diagram
 │   ├── 01_Title.md                    # Project title, vision, mission & objectives
@@ -77,6 +84,7 @@ VehicleTrading/
 │   ├── 09_Out_Of_Scope.md             # Version 1.0 scope boundaries & exclusions
 │   ├── 10_Chosen_Track.md             # Stack rationale & Railway/AWS hosting setup
 │   └── diagrams/                      # System diagrams & architecture assets
+│       ├── AutoMartX_Logo.png
 │       ├── AutoMartX_User_Workflow.png
 │       ├── AutoMartX_Database_ER_Diagram.png
 │       └── AutoMartX_Hosting_Deployment_Architecture.png
