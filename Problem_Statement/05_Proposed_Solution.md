@@ -1,6 +1,6 @@
 # 05. Proposed Solution
 
-# 🚗 AutoMartX – AI-Powered Smart Vehicle Marketplace
+#  AutoMartX – AI-Powered Smart Vehicle Marketplace
 
 ---
 
@@ -41,28 +41,28 @@ Buyers and sellers connect through built-in messaging, book inspections, and fin
 
 ## Key Solution Components
 
-### 🚗 Smart Vehicle Marketplace
+### Smart Vehicle Marketplace
 A full-featured platform for listing, browsing, searching, and filtering vehicles — the foundation on which AI features are layered.
 
-### 🤖 AI Fair Price Prediction
+### AI Fair Price Prediction
 Analyzes brand, model, year, mileage, fuel type, transmission, condition, and market trends to estimate a realistic price range with a confidence score.
 
-### 🩺 AI Vehicle Health Score
+###  AI Vehicle Health Score
 Estimates overall vehicle condition from available data, giving buyers a quick, objective quality indicator before inspection.
 
-### 🚨 AI Fake Listing Detection
+### AI Fake Listing Detection
 Flags suspicious listings based on duplicate images, unrealistic pricing, repeated descriptions, spam patterns, and seller history — reducing fraud exposure.
 
-### ⭐ Seller Trust Score
+### Seller Trust Score
 A dynamic, data-driven rating built from successful sales, buyer reviews, document verification, and complaint history.
 
-### 🎯 Personalized Recommendation Engine
+### Personalized Recommendation Engine
 Suggests relevant vehicles based on user preferences, search history, budget, and favourite brands — improving discovery efficiency.
 
-### 📍 Nearby Vehicle Discovery
+### Nearby Vehicle Discovery
 Uses Google Maps integration to help buyers find vehicles available close to their location.
 
-### 💬 Buyer–Seller Communication & Booking
+### Buyer–Seller Communication & Booking
 Built-in messaging and inspection booking tools keep the entire transaction process within the platform, improving safety and accountability.
 
 ---
