@@ -1,34 +1,19 @@
-# Environment variables
-.env
-.env.local
-.env.*.local
-
-# Node / JS
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.next/
-dist/
-build/
+# Frontend
+frontend/node_modules/
+frontend/dist/
 
 # Python
+backend/venv/
+backend/.venv/
+backend/__pycache__/
 __pycache__/
 *.py[cod]
-*$py.class
-venv/
-.venv/
-env/
 
-# IDE & Editors
+# Secret files
+.env
+.env.*
+!.env.example
+
+# Other files
 .vscode/
 .idea/
-*.swp
-*.swo
-.DS_Store
-
-# Logs & Temporary files
-logs/
-*.log
-tmp/
-temp/
